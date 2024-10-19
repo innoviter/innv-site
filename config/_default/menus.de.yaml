@@ -1,0 +1,29 @@
+main:
+  - name: 'Home'
+    pageRef: '/'
+    weight: 10
+  - name: 'Unsere Dienstleistungen'
+    pageRef: '/services'
+    weight: 20
+  - name: 'Wie wir arbeiten'
+    pageRef: '/how-we-work'
+    weight: 30
+  - name: 'Kontaktiere uns'
+    pageRef: '/contact'
+    weight: 90
+footer:
+  - name: 'Home'
+    pageRef: '/'
+    weight: 10
+  - name: 'FAQ'
+    pageRef: '/faq'
+    weight: 20
+  - name: 'Kontakt'
+    pageRef: '/contact'
+    weight: 20
+  - name: 'Impressum'
+    pageRef: '/imprint'
+    weight: 80
+  - name: 'Datenschutz'
+    pageRef: '/privacy'
+    weight: 90
