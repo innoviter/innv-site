@@ -1,0 +1,28 @@
+baseURL: 'https://example.org/'
+languageCode: 'de-DE'
+title: Entfesseln Sie mit uns Ihr digitales Potenzial!'
+theme: 'kijani'
+
+defaultContentLanguage: 'de'
+defaultContentLanguageInSubdir: true
+languages:
+  de:
+    contentDir: 'content/de'
+    disabled: false
+    languageCode: 'de-DE'
+    languageDirection: 'ltr'
+    languageName: 'Deutsch'
+    title: 'Entfesseln Sie Ihr digitales Potenzial!'
+    weight: 1
+    params:
+      subtitle: 'Referenz, Tutorials und Erklärungen'
+  en:
+    contentDir: 'content/en'
+    disabled: false
+    languageCode: 'en-US'
+    languageDirection: 'ltr'
+    languageName: 'English'
+    title: 'Unleash Your Digital Potential!'
+    weight: 2
+    params:
+      subtitle: 'Reference, Tutorials, and Explanations'
