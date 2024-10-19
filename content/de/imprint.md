@@ -1,10 +1,8 @@
-+++
-slug = 'impressum'
-title = 'Impressum'
-date = '2024-10-17T16:00:08+02:00'
-draft = true
-+++
-
+---
+slug: 'impressum'
+title: 'Impressum'
+date: '2024-10-17T16:00:08+02:00'
+---
 
 ## Angaben gemäß § 5 TMG
 

@@ -1,9 +1,8 @@
-+++
-slug = 'faq'
-title = 'Häufig gestellte Fragen'
-date = '2024-10-17T16:01:12+02:00'
-draft = true
-+++
+---
+slug: 'faq'
+title: 'Häufig gestellte Fragen'
+date: '2024-10-17T16:01:12+02:00'
+---
 
 ## Welche Informationen benötigen Sie von mir, um den Aufwand für die Softwareentwicklung abzuschätzen?
 

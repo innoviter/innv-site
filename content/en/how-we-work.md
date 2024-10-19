@@ -1,9 +1,10 @@
-+++
-slug = 'how-we-work'
-title = 'How We Work'
-date = '2024-10-17T16:01:12+02:00'
-draft = true
-+++
+---
+slug: 'how-we-work'
+title: 'How We Work'
+menu: main
+weight: 30
+date: '2024-10-17T16:01:12+02:00'
+---
 
 We adheres to a structured Software Development Life Cycle (SDLC) methodology to systematically plan, design, implement, test, and deploy high-quality software solutions.
 

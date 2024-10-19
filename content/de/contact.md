@@ -1,13 +1,12 @@
-+++
-slug = 'kontakt'
-title = 'Wir würden uns freuen, von Ihnen zu hören'
-date = '2024-10-17T16:01:12+02:00'
-draft = true
-+++
+---
+slug: 'kontakt'
+title: 'Wir würden uns freuen, von Dir zu hören'
+date: '2024-10-17T16:01:12+02:00'
+---
 
-Egal, ob Sie eine Frage, einen Kommentar, ein Feedback oder eine Projektanfrage haben, kontaktieren Sie uns gerne über das untenstehende Formular oder die Angaben auf der rechten Seite. Wir werden Ihnen innerhalb von 24 Stunden antworten.
+Egal, ob Du eine Frage, einen Kommentar, Feedback oder eine Projektanfrage hast, kontaktiere uns gerne über das untenstehende Formular oder die weiteren Angaben auf dieser Seite. Wir werden Dir innerhalb von 24 Stunden antworten.
 
-## Sagen Sie Hallo
+## Sag' Hallo
 
 hello@innoviter.com
 
@@ -23,6 +22,6 @@ Deutschland
 
 careers@innoviter.com
 
-## Besuchen Sie uns online
+## Besuche uns online
 
 https://innoviter.com

@@ -1,9 +1,8 @@
-+++
-slug = 'imprint'
-title = 'Imprint'
-date = '2024-10-17T15:43:20+02:00'
-draft = true
-+++
+---
+slug: 'imprint'
+title: 'Imprint'
+date: '2024-10-17T15:43:20+02:00'
+---
 
 ## According to § 5 TMG
 
