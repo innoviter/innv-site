@@ -1,7 +1,9 @@
 ---
+date: '2024-10-26T12:00:00+02:00'
+draft: false
+publishDate: '2024-10-26T12:00:00+02:00'
 slug: 'imprint'
 title: 'Imprint'
-date: '2024-10-17T15:43:20+02:00'
 ---
 
 ## According to § 5 TMG
@@ -12,9 +14,11 @@ In den Kolonnaden 7
 61231 Bad Nauheim  
 Germany
 
+
 ## Represented by
 
 Mischa Zöller
+
 
 ## Contact
 
@@ -26,21 +30,24 @@ Registration in the commercial register.
 Amtsgericht Friedberg  
 HRB 9706
 
+
 ## VAT ID
 
 DE307872205
 
+
 ## Responsible for the content according to § 55 paragraph 2 RStV
 
 Mischa Zöller
+
 
 ## Sources for the images and graphics used
 
 Source noted on the image
 
 
-
 The use of contact details published as part of the imprint obligation by third parties to send unsolicited advertising and information materials is hereby expressly prohibited. The operators of the pages expressly reserve the right to take legal action in the event of unsolicited advertising information being sent, such as spam emails.
+
 
 ## Disclaimer
 

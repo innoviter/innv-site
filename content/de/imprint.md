@@ -14,13 +14,16 @@ In den Kolonnaden 7
 61231 Bad Nauheim  
 Deutschland
 
+
 ## Vertreten durch
 
 Mischa Zöller
 
+
 ## Kontakt
 
 E-Mail-Adresse: hello@innoviter.com
+
 
 ## Register&shy;eintrag
 
@@ -28,21 +31,24 @@ Eintragung im Handelsregister.
 Amtsgericht Friedberg  
 HRB 9706
 
+
 ## Umsatz&shy;steuer-ID
 
 DE307872205
 
+
 ## Inhaltlich verant&shy;wortlich gemäß § 55 Abs. 2 RStV
 
 Mischa Zöller
+
 
 ## Quellen&shy;angaben für die verwen&shy;deten Bilder und Grafiken
 
 Quellenangabe am Bild.
 
 
-
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
+
 
 ## Haftungs&shy;ausschluss
 

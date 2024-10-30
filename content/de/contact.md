@@ -1,7 +1,7 @@
 ---
-date: '2024-10-26T12:00:00+02:00'
+date: '2024-10-26T00:00:00+02:00'
 draft: false
-publishDate: '2024-10-26T12:00:00+02:00'
+publishDate: '2024-10-26T00:00:00+02:00'
 slug: 'kontakt'
 title: 'Wir würden uns freuen, von Dir zu hören'
 translationKey: 'contact'
