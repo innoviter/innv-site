@@ -1,14 +1,19 @@
 ---
+date: '2024-10-26T12:00:00+02:00'
+draft: false
+publishDate: '2024-10-26T12:00:00+02:00'
 slug: 'kontakt'
 title: 'Wir würden uns freuen, von Dir zu hören'
-date: '2024-10-17T16:01:12+02:00'
+translationKey: 'contact'
 ---
 
-Egal, ob Du eine Frage, einen Kommentar, Feedback oder eine Projektanfrage hast, kontaktiere uns gerne über das untenstehende Formular oder die weiteren Angaben auf dieser Seite. Wir werden Dir innerhalb von 24 Stunden antworten.
+Egal, ob Du eine Frage, einen Kommentar, Feedback oder eine Projektanfrage hast, kontaktiere uns gerne über die auf dieser Seite angegebenen Kontaktmöglichkeiten.
+Wir werden Dir innerhalb von 24 Stunden antworten.
 
-## Sag' Hallo
+## Sag&#39; Hallo
 
-hello@innoviter.com
+{{< button href="mailto:hello@innoviter.com" title="E-Mail-Adresse">}}hello@innoviter.com{{< /button >}}
+
 
 ## Postanschrift
 
@@ -18,10 +23,13 @@ In den Kolonnaden 7
 61231 Bad Nauheim  
 Deutschland
 
+
 ## Karriere
 
-careers@innoviter.com
+{{< button href="mailto:careers@innoviter.com" title="E-Mail-Adresse">}}careers@innoviter.com{{< /button >}}
+
 
 ## Besuche uns online
 
-https://innoviter.com
+{{< button href="https://innoviter.com" title="Website">}}https://innoviter.com{{< /button >}}
+
