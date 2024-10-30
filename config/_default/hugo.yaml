@@ -1,4 +1,4 @@
-baseURL: 'https://example.org/'
+baseURL: 'https://innoviter.com/'
 languageCode: 'de-DE'
 title: Entfesseln Sie mit uns Ihr digitales Potenzial!'
 theme: 'kijani'
@@ -12,17 +12,30 @@ languages:
     languageCode: 'de-DE'
     languageDirection: 'ltr'
     languageName: 'Deutsch'
-    title: 'Entfesseln Sie Ihr digitales Potenzial!'
+    title: 'Innoviter | Digitale Innovation für Organisationen'
     weight: 1
     params:
       subtitle: 'Referenz, Tutorials und Erklärungen'
+      read_more: 'Mehr Infos'
+      footer:
+        title: 'Wie können wir helfen, deine Projektidee zu realisieren?'
+        subtitle: "Lass' uns reden"
+        contact_us: 'Kontaktiere uns'
+        contact: 'Kontakt'
   en:
     contentDir: 'content/en'
     disabled: false
     languageCode: 'en-US'
     languageDirection: 'ltr'
     languageName: 'English'
-    title: 'Unleash Your Digital Potential!'
+    title: 'Innoviter | Digital Innovation for Organizations'
     weight: 2
     params:
       subtitle: 'Reference, Tutorials, and Explanations'
+      read_more: 'More information'
+      footer:
+        title: 'How can we help realize your project idea?'
+        subtitle: "Let's talk"
+        contact_us: 'Get in touch'
+        contact: 'Contact'
+

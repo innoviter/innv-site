@@ -2,22 +2,25 @@ main:
   - name: 'Home'
     pageRef: '/'
     weight: 10
-  - name: 'Services We Provide'
-    pageRef: '/services'
-    weight: 20
-  - name: 'How We Work'
-    pageRef: '/how-we-work'
-    weight: 30
-  - name: 'Contact us'
+#  - name: 'Services'
+#    pageRef: '/services'
+#    weight: 20
+#  - name: 'How We Work'
+#    pageRef: '/how-we-work'
+#    weight: 30
+#  - name: 'Blog'
+#    pageRef: '/posts'
+#    weight: 80
+  - name: 'Contact'
     pageRef: '/contact'
     weight: 90
 footer:
   - name: 'Home'
     pageRef: '/'
     weight: 10
-  - name: 'FAQ'
-    pageRef: '/faq'
-    weight: 20
+#  - name: 'FAQ'
+#    pageRef: '/faq'
+#    weight: 20
   - name: 'Contact'
     pageRef: '/contact'
     weight: 20
