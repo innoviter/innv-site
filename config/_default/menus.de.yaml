@@ -27,6 +27,6 @@ footer:
   - name: 'Impressum'
     pageRef: '/imprint'
     weight: 80
-#  - name: 'Datenschutz'
-#    pageRef: '/privacy'
-#    weight: 90
+  - name: 'Datenschutz'
+    pageRef: '/privacy'
+    weight: 90
