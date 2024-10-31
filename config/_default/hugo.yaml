@@ -12,10 +12,10 @@ languages:
     languageCode: 'de-DE'
     languageDirection: 'ltr'
     languageName: 'Deutsch'
-    title: 'Innoviter | Digitale Innovation für Organisationen'
+    title: 'Innoviter'
     weight: 1
     params:
-      subtitle: 'Referenz, Tutorials und Erklärungen'
+      subtitle: 'Digitale Innovation für Organisationen'
       read_more: 'Mehr Infos'
       footer:
         title: 'Wie können wir helfen, deine Projektidee zu realisieren?'
@@ -28,10 +28,10 @@ languages:
     languageCode: 'en-US'
     languageDirection: 'ltr'
     languageName: 'English'
-    title: 'Innoviter | Digital Innovation for Organizations'
+    title: 'Innoviter'
     weight: 2
     params:
-      subtitle: 'Reference, Tutorials, and Explanations'
+      subtitle: 'Digital Innovation for Organizations'
       read_more: 'More information'
       footer:
         title: 'How can we help realize your project idea?'
