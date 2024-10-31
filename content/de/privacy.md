@@ -3,25 +3,25 @@ date: '2024-10-31T00:00:00+02:00'
 draft: false
 publishDate: '2024-10-31T00:00:00+02:00'
 slug: 'datenschutz'
-title: 'Datenschutzerklärung'
+title: "Daten&shy;schutz&shy;erklärung"
 ---
 
 ## Auf einen Blick
 
-### Allgemeine Hinweise
+### Allge&shy;meine Hinweise
 
 Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit deinen personenbezogenen Daten passiert, wenn du diese Website besuchst.
 Personenbezogene Daten sind alle Daten, mit denen du persönlich identifiziert werden kannst.
 Ausführliche Informationen zum Thema Datenschutz entnimmst du unserer unter diesem Text aufgeführten Datenschutzerklärung.
 
-### Datenerfassung auf dieser Website
+### Daten&shy;erfassung auf dieser Website
 
-#### Wer ist verantwortlich für die Datenerfassung auf dieser Website?
+#### Wer ist verant&shy;wortlich für die Daten&shy;erfassung auf dieser Website?
 
 Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber.
 Dessen Kontaktdaten kannst du dem Abschnitt "Hinweis zur Verantwortlichen Stelle" in dieser Datenschutzerklärung entnehmen.
 
-#### Wie erfassen wir deine Daten?
+#### Wie erfas&shy;sen wir deine Daten?
 
 Deine Daten werden zum einen dadurch erhoben, dass du uns diese mitteilst.
 Hierbei kann es sich z. B. um Daten handeln, die du in Formularen (Kontaktformular etc.) eingibst.
@@ -35,7 +35,7 @@ Die Erfassung dieser Daten erfolgt automatisch, sobald du diese Website besuchst
 Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gewährleisten.
 Andere Daten können zur Analyse deines Nutzerverhaltens verwendet werden.
 
-#### Welche Rechte hast du bezüglich deiner Daten?
+#### Welche Rechte hast du bezüg&shy;lich deiner Daten?
 
 Du hast jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck deiner gespeicherten personenbezogenen Daten zu erhalten.
 Du hast außerdem ein Recht, die Berichtigung oder Löschung dieser Daten zu verlangen.
@@ -45,7 +45,7 @@ Des Weiteren steht dir ein Beschwerderecht bei der zuständigen Aufsichtsbehörd
 
 Hierzu sowie zu weiteren Fragen zum Thema Datenschutz kannst du dich jederzeit an uns wenden.
 
-#### Analyse-Tools und Tools von Drittanbietern
+#### Analyse-Tools und Tools von Dritt&shy;anbietern
 
 Beim Besuch dieser Website kann dein Surf-Verhalten statistisch ausgewertet werden.
 Das geschieht vor allem mit sogenannten Analyseprogrammen.
@@ -53,9 +53,9 @@ Das geschieht vor allem mit sogenannten Analyseprogrammen.
 Detaillierte Informationen zu diesen Analyseprogrammen findest du in der folgenden Datenschutzerklärung. 
 
 
-## Hosting und Content Delivery Networks (CDN)
+## Hosting und Content Deli&shy;very Net&shy;works (CDN)
 
-### Externes Hosting
+### Exter&shy;nes Hosting
 
 Diese Website wird bei einem externen Dienstleister gehostet (Hoster).
 Die personenbezogenen Daten, die auf dieser Website erfasst werden, werden auf den Servern des Hosters gespeichert.
@@ -72,14 +72,14 @@ Industriestr. 25
 91710 Gunzenhausen  
 Deutschland
 
-#### Abschluss eines Vertrages über Auftrags&shy;verarbeitung
+#### Abschluss eines Vertra&shy;ges über Auftrags&shy;verarbeitung
 
 Um die datenschutzkonforme Verarbeitung zu gewährleisten, haben wir einen Vertrag über Auftragsverarbeitung mit unserem Hoster geschlossen.
 
 
-## Allgemeine Hinweise und Pflicht&shy;informationen
+## Allge&shy;meine Hin&shy;weise und Pflicht&shy;informationen
 
-### Datenschutz
+### Daten&shy;schutz
 
 Die Betreiber dieser Seiten nehmen den Schutz deiner persönlichen Daten sehr ernst.
 Wir behandeln deine personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.
