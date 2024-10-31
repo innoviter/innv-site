@@ -3,7 +3,9 @@ date: '2024-10-26T12:00:00+02:00'
 draft: false
 publishDate: '2024-10-26T12:00:00+02:00'
 params:
-  cover_picture_prefix: /images/home.241030
+  cover_picture:
+    source_prefix: /images/home.241030
+    caption: ~
 title: 'Entfalte dein digitales Potenzial'
 ---
 
