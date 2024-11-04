@@ -10,9 +10,15 @@ translationKey: 'contact'
 Egal, ob Du eine Frage, einen Kommentar, Feedback oder eine Projektanfrage hast, kontaktiere uns gerne über die auf dieser Seite angegebenen Kontaktmöglichkeiten.
 Wir werden Dir innerhalb von 24 Stunden antworten.
 
+
 ## Sag&#39; Hallo
 
 {{< button href="mailto:hello@innoviter.com" title="E-Mail-Adresse">}}hello@innoviter.com{{< /button >}}
+
+
+## Lass&#39; uns reden
+
+{{< button href="tel:004960327859109" title="Telefonnummer">}}+49 (0) 6032 7859109{{< /button >}}
 
 
 ## Postanschrift

@@ -100,7 +100,7 @@ Mischa Zöller
 c/o Innoviter UG  
 In den Kolonnaden 7  
 61231 Bad Nauheim  
-Telefonnummer: +49 171 5378332  
+Telefonnummer: +49 6032 7859109  
 E-Mail-Adresse: mischa.zoeller@innoviter.com
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
