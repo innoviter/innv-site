@@ -18,7 +18,7 @@ Wir werden Dir innerhalb von 24 Stunden antworten.
 
 ## Lass&#39; uns reden
 
-{{< button href="tel:004960327859109" title="Telefonnummer">}}+49 (0) 6032 7859109{{< /button >}}
+{{< button href="tel:004960327859109" title="Telefonnummer">}}+49 6032 7859109{{< /button >}}
 
 
 ## Postanschrift
