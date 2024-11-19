@@ -1,9 +1,9 @@
 ---
+date: '2024-10-17T16:01:12+02:00'
+draft: true
+publishDate: '2024-10-28T12:00:00+02:00'
 slug: 'services'
 title: 'Services We Provide'
-menu: main
-weight: 20
-date: '2024-10-17T16:01:12+02:00'
 ---
 
 Let’s build together. We offer the right services to meet your demands.

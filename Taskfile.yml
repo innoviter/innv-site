@@ -1,0 +1,37 @@
+version: '3'
+
+tasks:
+
+  serve:
+    cmds:
+      - hugo server -D
+
+  tailwind:init:
+    dir: ./themes/kijani
+    cmds:
+      - docker build --no-cache -t innv/innv-site-node-tailwind .
+
+  tailwind:build:dev:
+    dir: ./themes/kijani
+    cmds:
+      - docker run --rm -it -v ${PWD}:/node innv/innv-site-node-tailwind npm run tailwind:build:dev
+
+  tailwind:build:prod:
+    dir: ./themes/kijani
+    cmds:
+      - docker run --rm -it -v ${PWD}:/node innv/innv-site-node-tailwind npm run tailwind:build:prod
+
+  build:
+    cmds:
+#      - hugo --cleanDestinationDir -b http://localhost
+      - hugo --cleanDestinationDir
+      - task: tailwind:build:prod
+      - docker compose build hugo
+
+  deploy:
+    cmds:
+      - task: build
+      - docker save -o "$(date '+%y%m%d')-innv-site.tar" innv-site-hugo
+      - scp "./$(date '+%y%m%d')-innv-site.tar" innv-hzn1-fre5:.
+      - rm "$(date '+%y%m%d')-innv-site.tar"
+      - ssh innv-hzn1-fre5 "bash ~/migrate-innv-site.sh"
