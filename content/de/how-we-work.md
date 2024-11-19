@@ -1,9 +1,11 @@
 ---
+date: '2024-10-17T16:01:12+02:00'
+draft: true
+menu: main
+publishDate: '2024-12-01T12:00:00+02:00'
 slug: 'wie-wir-arbeiten'
 title: 'Wie wir arbeiten'
-menu: main
 weight: 30
-date: '2024-10-17T16:01:12+02:00'
 ---
 
 Wir halten uns an eine strukturierte Methodik des Software Development Life Cycle (SDLC), um qualitativ hochwertige Softwarelösungen systematisch zu planen, zu entwerfen, zu implementieren, zu testen und bereitzustellen.
