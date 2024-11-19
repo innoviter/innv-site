@@ -1,0 +1,10 @@
+services:
+  hugo:
+    command: ["nginx", "-g", "daemon off;"]
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 80:80
+
+#  node:
