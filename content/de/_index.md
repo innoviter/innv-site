@@ -12,7 +12,7 @@ title: 'Entfalte dein digitales Potenzial'
 ## Wir unterstützen deine Organisation, das volle Potenzial der Digitalisierung zu nutzen.
 
 Innoviter liefert maßgeschneiderte Softwareplattformen: nachhaltige Softwareanwendungen, digitale Infrastrukturen und Systemarchitekturen.
-Wir unterstützen unsere Kunden dabei, zukunftsfähige Geschäftsmodelle auf Basis von Software zu schaffen.
+Wir unterstützen unsere Kunden und Kundinnen dabei, zukunftsfähige Geschäftsmodelle auf Basis von Software zu schaffen.
 Wir bieten ganzheitliche Dienstleistungen für Softwareprojekte und begleiten dabei durch alle Phasen: von der ersten Idee und Konzeption über die Entwicklung bis hin zu Betrieb und Support.
 __Du kannst jederzeit in den Prozess einsteigen.__
 
@@ -31,13 +31,13 @@ Die Entwicklung eines erfahrenen Software Engineers ist ein langer und intensive
 
 Unser Fokus liegt auf nachhaltigen und ressourcenschonenden IT-Lösungen.
 Durch den Einsatz umweltfreundlicher Technologien und die Entwicklung energieeffizienter Software tragen wir aktiv zur Reduzierung des ökologischen Fußabdrucks bei.
-Mit transparentem Handeln und sozialer Verantwortung setzen wir auf eine verantwortungsvolle Digitalisierung und schaffen Vertrauen bei unseren Kunden und Partnern.
+Mit transparentem Handeln und sozialer Verantwortung setzen wir auf eine verantwortungsvolle Digitalisierung und schaffen Vertrauen bei unseren Kund- und Partnerschaften.
 
 ### Green Software Engineering
 
 Green Software Engineering verbindet modernste Softwareentwicklung mit Nachhaltigkeit, indem es den gesamten Lebenszyklus einer Anwendung ressourcenschonend gestaltet.
 Von der Architektur über die Programmierung bis hin zum Betrieb und zur Wartung wird Software so entwickelt, dass sie effizient mit Energie und Hardware umgeht, ihre Lebensdauer maximiert und den ökologischen Fußabdruck minimiert.
-So unterstützen wir unsere Kunden dabei, innovative, leistungsfähige und umweltfreundliche Lösungen zu schaffen, die nicht nur wirtschaftliche Vorteile bieten, sondern auch aktiv zum Klimaschutz beitragen.
+So unterstützen wir unsere Kunden und Kundinnen dabei, innovative, leistungsfähige und umweltfreundliche Lösungen zu schaffen, die nicht nur wirtschaftliche Vorteile bieten, sondern auch aktiv zum Klimaschutz beitragen.
 
 {{< button href="services/green-software-engineering" title="Green Software Engineering">}}Green Software Engineering{{< /button >}}
 
