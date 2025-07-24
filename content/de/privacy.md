@@ -200,8 +200,20 @@ In diesem Fall werden die IP-Adressen der Nutzer anonymisiert, sodass eine Zuord
 
 ## Analyse-Tools und Werbung
 
-Es werden derzeit keine Analyse-Tools verwendet und auch keine Werbung auf unserer Website geschaltet.
+Mit Ihrer Einwilligung verwenden wir die Open-Source-Software Matomo zur Analyse und statistischen Auswertung der
+Nutzung der Website. Hierzu werden Cookies eingesetzt. Die dadurch erhaltenen Informationen über die Websitenutzung
+werden ausschließlich an unsere Server übertragen und in pseudonymen Nutzungsprofilen zusammengefasst. Die Daten
+verwenden wir zur Auswertung der Nutzung der Website. Eine Weitergabe der erfassten Daten an Dritte erfolgt nicht.
 
+Die IP-Adressen werden anonymisiert (IPMasking), sodass eine Zuordnung zu einzelnen Nutzern nicht möglich ist.
+
+Die Verarbeitung der Daten erfolgt auf Grundlage von Art. 6 Abs. 1 S. 1 lit. a DSGVO. Wir verfolgen damit unser
+berechtigtes Interesse an der Optimierung unserer Webseite für unsere Außendarstellung.
+
+Sie können Ihre Einwilligung jederzeit widerrufen, indem Sie die Cookies in Ihrem Browser löschen oder Ihre
+Datenschutzeinstellungen ändern.
+
+Es wird derzeit keine Werbung auf unserer Website geschaltet.
 
 ## Quelle
 
